@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">w9work1</string>
+    <string name="button1">오른쪽 위 메뉴 버튼을 누르세요</string>
+    <string name="button2">이건 버튼</string>
+</resources>
